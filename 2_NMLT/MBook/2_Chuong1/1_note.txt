@@ -1,0 +1,9 @@
+### Chương 1
+Chương Trình / Ứng dụng là gì ?
+- dưới góc nhìn của người sử dụng : (Khái niệm + phân loại)
+- Dưới góc nhìn của người lập trình viên : (tổ chức các thành phần + các bước xây dựng)
+-> Khái Niệm : Thực hiện các công việc (nghiệp vụ ) /hoạt động f với sự trợ giúp của chương trình ứng dụng
+              - chương trình f sẽ có luôn có nhập dữ liệu / xuất dữ liệu
+-> Phân loại : - Ứng dụng Desktop
+               - Ứng dụng Mobile Application
+               - Ứng dụng Web (thông qua web Browser)

@@ -1,0 +1,10 @@
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\bin\Debug\Loi_Chao_Desktop.exe.config
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\bin\Debug\Loi_Chao_Desktop.exe
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\bin\Debug\Loi_Chao_Desktop.pdb
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\obj\Debug\Loi_Chao_Desktop.csprojAssemblyReference.cache
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\obj\Debug\Loi_Chao_Desktop.Form1.resources
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\obj\Debug\Loi_Chao_Desktop.Properties.Resources.resources
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\obj\Debug\Loi_Chao_Desktop.csproj.GenerateResource.cache
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\obj\Debug\Loi_Chao_Desktop.csproj.CoreCompileInputs.cache
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\obj\Debug\Loi_Chao_Desktop.exe
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Desktop\obj\Debug\Loi_Chao_Desktop.pdb

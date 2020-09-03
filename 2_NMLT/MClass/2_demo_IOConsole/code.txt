@@ -1,0 +1,24 @@
+using System;
+
+namespace IO_Console
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.Write("Hello ");
+            Console.WriteLine("World!");
+
+            int x, y;
+            Console.Write("Nhập Số x: ");
+            x= int.Parse(Console.ReadLine());
+            Console.Write("Nhập Số y: ");
+            y = int.Parse(Console.ReadLine());
+
+            double z = 1.0*x / y;
+            Console.WriteLine("{0} + {1} = {2}",x,y,(x+y));
+            Console.WriteLine($"{x} / {y} = {z}");
+
+        }
+    }
+}

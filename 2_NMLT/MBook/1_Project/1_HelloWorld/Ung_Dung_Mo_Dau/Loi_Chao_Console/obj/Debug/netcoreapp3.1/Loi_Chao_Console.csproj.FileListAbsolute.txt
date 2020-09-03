@@ -1,0 +1,13 @@
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\obj\Debug\netcoreapp3.1\Loi_Chao_Console.csprojAssemblyReference.cache
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\obj\Debug\netcoreapp3.1\Loi_Chao_Console.AssemblyInfoInputs.cache
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\obj\Debug\netcoreapp3.1\Loi_Chao_Console.AssemblyInfo.cs
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\obj\Debug\netcoreapp3.1\Loi_Chao_Console.csproj.CoreCompileInputs.cache
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\bin\Debug\netcoreapp3.1\Loi_Chao_Console.exe
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\bin\Debug\netcoreapp3.1\Loi_Chao_Console.deps.json
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\bin\Debug\netcoreapp3.1\Loi_Chao_Console.runtimeconfig.json
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\bin\Debug\netcoreapp3.1\Loi_Chao_Console.runtimeconfig.dev.json
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\bin\Debug\netcoreapp3.1\Loi_Chao_Console.dll
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\bin\Debug\netcoreapp3.1\Loi_Chao_Console.pdb
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\obj\Debug\netcoreapp3.1\Loi_Chao_Console.dll
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\obj\Debug\netcoreapp3.1\Loi_Chao_Console.pdb
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_Console\obj\Debug\netcoreapp3.1\Loi_Chao_Console.genruntimeconfig.cache

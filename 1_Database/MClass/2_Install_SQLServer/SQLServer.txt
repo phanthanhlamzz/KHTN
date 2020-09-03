@@ -1,0 +1,11 @@
+# Phần mềm:
+- MS SQL Server Express 2008 (Ram 4GB)
+- MS SQL Server Express 2012
+# note
+SQLEXPRWT_x64_ENU.exe (SQL-Core + SQL-ManagementStudio)
+# kiểm coi cài chưa 
+vào run -> search "Services"
+# cmd $hostname
+
+Sử dụng Snipping Tool chụp màn hình
+password : 1

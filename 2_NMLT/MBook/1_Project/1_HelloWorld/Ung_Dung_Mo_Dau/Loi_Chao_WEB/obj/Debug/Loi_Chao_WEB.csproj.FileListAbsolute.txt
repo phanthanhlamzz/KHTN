@@ -1,0 +1,7 @@
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_WEB\bin\Loi_Chao_WEB.dll.config
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_WEB\bin\Loi_Chao_WEB.dll
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_WEB\bin\Loi_Chao_WEB.pdb
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_WEB\obj\Debug\Loi_Chao_WEB.csprojAssemblyReference.cache
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_WEB\obj\Debug\Loi_Chao_WEB.csproj.CoreCompileInputs.cache
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_WEB\obj\Debug\Loi_Chao_WEB.dll
+D:\Project2020Csharp\1_Demo\1_HelloWorld\Ung_Dung_Mo_Dau\Loi_Chao_WEB\obj\Debug\Loi_Chao_WEB.pdb

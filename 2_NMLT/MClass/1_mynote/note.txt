@@ -1,0 +1,4 @@
+C#,JAVA -> đều có IL (ngôn ngữ trung gian - mã trung gian)
+ C# -> cài .NET framework (chạy trên window) (máy ảo để chạy mã trung gian)
+	 .NET Core (chạy được trên linux và mac)
+ JAVA -> JVM

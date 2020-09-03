@@ -1,0 +1,62 @@
+﻿# Xử lý dựa trên hệ thống tập tin
+- Hệ thống tập tin (Gồm nhiều tập tin)
+  Vd: 1 Ngân Hàng : - Hệ Thống Tập tin Khách Gửi tiết kiệm
+                  - Hệ Thông Tập tin Khác Vay ngân Hàng...
+- Data entry : Dữ Liệu Nhập vào
+- Reports : xuất những báo cáo
+- Cách Tổ chức một Hệ thống tâp tin gồm :
+    - File Defintion : Định nghĩa hệ Thống
+    - File Handling routines
+Hạn Chế :
+ - Dữ liệu Tách biệt
+ - Thông Tin Trùng lấp
+ - không nhất quán ...
+ - các chương trình phải phụ thuộc vào cách tổ chức dữ liệu trong trong tập tin
+ - định dạng tập tin không tương thích
+ - Các truy vấn bị cố định trước
+- Thông Tin ko đc Nhất quản : thông tin của một đối tượng được lưu với những nội dung khác nhau ở những nơi khác nhau , không đồng nhất về nội dung
+
+
+
+# Xử lý dựa trên cở dữ liệu
+Ưu điểm :
+- Dữ liệu được lưu trữ độc lập với chương trình
+- Dữ liệu được tập trung -> tính nhất quán
+- Dữ liệu được chia sẽ cho nhiều ứng dụng
+- Dữ liệu được bảo đảm an toàn
+- Dữ liệu ít dư thừa
+
+# Mức nhìn một CSDL
+1) External Level : User1 (View1) User2 (View2) User n(View n)
+    - một ứng dụng , một người nào đó truy cập vào CSDL thì chỉ thấy được một số thông tin nhất định phụ thuộc vào quyền hạn của ứng dụng , người sử dụng được cấp
+2) Conceptual Level (Conceptual Schema) : database administrator
+3) Internal Level (Internal Schema) : các cài đặt lượt đồ Conceptual Schema
+4) Physical Data Organization (Database): dữ liệu được  lưu thức sự
+
+# Mô hình dữ liệu (Data Model)
+- Mô hình dữ liêu cung cấp những cái ký hiệu , cách thức để mô tả dữ liệu thay vì sử dụng ngôn ngữ tự nhiên
+- vd: bản đồ Việt Nam, bản vẽ ... (được xem là mô hình)
+ + Mô hình phân cấp (hierarchial model)  : vd dụ: Codasyl, cấp thư mục (thư mục con thư mục cha)
+ + Mô hình mạng (network model) : 
+ ->Mô hình phân cấp + Mô hình mạng tính độc lập logic chưa được bảo đảm (chương trình vẫn phải dựa trên cấu trúc của dữ liệu) 
+
+ + Mô hình quan hệ (ralational model) : dữ liệu được tổ chức dưới dạng bảng 2 chiều (dòng + cột)
+ + Mô hình hướng đối tượng (Object oriented Model)
+
+# Mô hình hóa nhiều cấp (chuyển từ vấn đề thực tế sang mô hình dữ liệu)
+1) Thực tế 
+2) Mô hình quan niệm (là mô hình trựu tượng mà chúng ta nghĩ ra) như là gồm những đối tượng gì, và những thông tin gì
+3) Mô hình logic : lựa chọn mô hình dữ liệu để triển khai (như là : codasyl, relationnel, Object, XML)
+4) Mô hình vật lý : lựa chọn ngôn ngữ lập trình nào hoặc hệ quản trị csdl nào
+
+* Siêu cơ sở dữ liệu (meta data) : chứa thông tin bao nhiêu bảng 2 chiều, các bảng 2 chiều liên hệ với nhau như thế nào ...
+  -> từ đó quản lý được cơ sở dữ liệu
+* Hỗ trợ giao tác (transaction) : 
+* Xữ lý xuất đồng thời 
+
+Vai trò trong CSDL:
+- Quản trị dữ liệu (DA) : quản trị tổng thể về dữ liệu
+- Quản trị CSDL (DBA) : quản trị csdl trên máy tính
+- Thiết kế CSDL (Database design) : 
+- Lập trình viên ứng dụng
+- Người sử dụng
